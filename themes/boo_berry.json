@@ -19,7 +19,7 @@
         "element.background": "#614D85",
         "element.hover": "#37294d99",
         "element.active": null,
-        "element.selected": "#ffffff20",
+        "element.selected": "#ffffffff",
         "element.disabled": null,
         "drop_target.background": "#34294f66",
         "ghost_element.background": null,
@@ -106,13 +106,13 @@
         "error": "#fe4450",
         "error.background": null,
         "error.border": null,
-        "hidden": null,
+        "hidden": "#886C9C",
         "hidden.background": null,
         "hidden.border": null,
         "hint": "#969696ff",
         "hint.background": null,
         "hint.border": null,
-        "ignored": "#ffffff59",
+        "ignored": "#5A3D6E",
         "ignored.background": null,
         "ignored.border": null,
         "info": null,
@@ -208,6 +208,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "preproc": {
+            "color": "#7FC9AB",
+            "font_style": null,
+            "font_weight": null
+          },
           "property": {
             "color": "#ff7edb",
             "font_style": null,
@@ -239,6 +244,26 @@
             "font_weight": null
           },
           "string": {
+            "color": "#E3C0A8",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.escape": {
+            "color": "#E3C0A8",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regex": {
+            "color": "#E3C0A8",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.special": {
+            "color": "#E3C0A8",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.special.symbol": {
             "color": "#E3C0A8",
             "font_style": null,
             "font_weight": null
