@@ -1,0 +1,7 @@
+{
+  "name": "Boo Berry",
+  "version": "0.0.1",
+  "authors": ["Le Coq <cocporn@gmail.com>"],
+  "description": "An attempt at a port of the boo_berry theme in Helix",
+  "repository": "https://github.com/COCPORN/zed-boo_berry"
+}
