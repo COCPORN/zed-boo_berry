@@ -36,7 +36,7 @@
 "markup.raw" = { fg = "mint" }
 
 "ui.background" = { bg = "berry" }
-"ui.cursor" =  { fg = "berry", bg = "lilac" }
+"ui.cursor" = { fg = "berry", bg = "lilac" }
 "ui.cursor.match" = { fg = "berry", bg = "berry_desaturated" }
 "ui.cursor.select" = { fg = "berry", bg = "violet" }
 "ui.cursor.insert" = { fg = "berry", bg = "mint" }
@@ -70,10 +70,10 @@
 "info" = { fg = "lilac" }
 "hint" = { fg = "lilac" }
 
-"diagnostic.warning" = { underline = { color = "bubblegum", style = "curl"} }
-"diagnostic.error" = { underline = { color = "gold", style = "curl"} }
-"diagnostic.info" = { underline = { color = "lilac", style = "curl"} }
-"diagnostic.hint" = { underline = { color = "lilac", style = "curl"} }
+"diagnostic.warning" = { underline = { color = "bubblegum", style = "curl" } }
+"diagnostic.error" = { underline = { color = "gold", style = "curl" } }
+"diagnostic.info" = { underline = { color = "lilac", style = "curl" } }
+"diagnostic.hint" = { underline = { color = "lilac", style = "curl" } }
 "diagnostic.unnecessary" = { modifiers = ["dim"] }
 "diagnostic.deprecated" = { modifiers = ["crossed_out"] }
 
@@ -93,4 +93,4 @@ bubblegum = "#7FC9AB"
 mint = "#7FC9AB"
 
 peach = "#C97DB2"
-dark_background = "#291D3B";
+dark_background = "#291D3B"
