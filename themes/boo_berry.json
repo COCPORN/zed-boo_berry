@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "author": "Le Coq",
+  "author": "Lars Thomas Denstad <cocporn@gmail.com>",
   "name": "Boo Berry",
   "themes": [
     {
